@@ -7736,3 +7736,87 @@
 04/06/2020 01:23:52: response received: Infinity1234
 
 
+
+04/06/2020 01:42:33: response received: 1.5.3
+
+04/06/2020 01:42:33: response received: Ok
+
+04/06/2020 01:42:33: response received: {"name":"3","id":1024,"x":674,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":673.5931,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1234}
+
+04/06/2020 01:42:34: response received: {"name":"3","id":1024,"x":674,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":673.5931,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1234}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"1","id":1026,"x":139,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":139.220825,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1232}
+
+04/06/2020 01:42:34: response received: {"name":"1","id":1026,"x":139,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":139.220825,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1232}
+
+04/06/2020 01:42:34: response received: {"name":"Minus","id":1030,"x":941,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":940.7792,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1228}
+
+04/06/2020 01:42:34: response received: {"name":"Minus","id":1030,"x":941,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":940.7792,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1228}
+
+04/06/2020 01:42:34: response received: {"name":"4","id":1022,"x":139,"y":1080,"z":0,"mobileY":1080,"type":"","enabled":true,"worldX":139.220825,"worldY":1080.0,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1264}
+
+04/06/2020 01:42:34: response received: {"name":"4","id":1022,"x":139,"y":1080,"z":0,"mobileY":1080,"type":"","enabled":true,"worldX":139.220825,"worldY":1080.0,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1264}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:42:34: response received: {"name":"Text","id":976,"x":526,"y":1935,"z":0,"mobileY":225,"type":"","enabled":true,"worldX":526.157,"worldY":1935.0,"worldZ":0.0,"idCamera":1090,"parentId":1204,"transformId":1202}
+
+04/06/2020 01:42:34: response received: 321
+-
+422
+
+04/06/2020 01:42:34: response received: {"name":"Plus","id":1014,"x":941,"y":546,"z":0,"mobileY":1614,"type":"","enabled":true,"worldX":940.7792,"worldY":545.627747,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1262}
+
+04/06/2020 01:42:34: response received: {"name":"Plus","id":1014,"x":941,"y":546,"z":0,"mobileY":1614,"type":"","enabled":true,"worldX":940.7792,"worldY":545.627747,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1262}
+
+04/06/2020 01:43:05: response received: 1.5.3
+
+04/06/2020 01:43:05: response received: Ok
+
+04/06/2020 01:43:06: response received: {"name":"3","id":1024,"x":674,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":673.5931,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1234}
+
+04/06/2020 01:43:06: response received: {"name":"3","id":1024,"x":674,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":673.5931,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1234}
+
+04/06/2020 01:43:06: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:06: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:06: response received: {"name":"1","id":1026,"x":139,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":139.220825,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1232}
+
+04/06/2020 01:43:06: response received: {"name":"1","id":1026,"x":139,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":139.220825,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1232}
+
+04/06/2020 01:43:06: response received: {"name":"Minus","id":1030,"x":941,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":940.7792,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1228}
+
+04/06/2020 01:43:06: response received: {"name":"Minus","id":1030,"x":941,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":940.7792,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1228}
+
+04/06/2020 01:43:06: response received: {"name":"4","id":1022,"x":139,"y":1080,"z":0,"mobileY":1080,"type":"","enabled":true,"worldX":139.220825,"worldY":1080.0,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1264}
+
+04/06/2020 01:43:06: response received: {"name":"4","id":1022,"x":139,"y":1080,"z":0,"mobileY":1080,"type":"","enabled":true,"worldX":139.220825,"worldY":1080.0,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1264}
+
+04/06/2020 01:43:06: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:06: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:06: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:07: response received: {"name":"2","id":1012,"x":406,"y":813,"z":0,"mobileY":1347,"type":"","enabled":true,"worldX":406.406921,"worldY":812.813843,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1252}
+
+04/06/2020 01:43:07: response received: {"name":"Text","id":976,"x":526,"y":1935,"z":0,"mobileY":225,"type":"","enabled":true,"worldX":526.157,"worldY":1935.0,"worldZ":0.0,"idCamera":1090,"parentId":1204,"transformId":1202}
+
+04/06/2020 01:43:07: response received: 321
+-
+422
+
+04/06/2020 01:43:07: response received: {"name":"Plus","id":1014,"x":941,"y":546,"z":0,"mobileY":1614,"type":"","enabled":true,"worldX":940.7792,"worldY":545.627747,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1262}
+
+04/06/2020 01:43:07: response received: {"name":"Plus","id":1014,"x":941,"y":546,"z":0,"mobileY":1614,"type":"","enabled":true,"worldX":940.7792,"worldY":545.627747,"worldZ":0.0,"idCamera":1090,"parentId":1200,"transformId":1262}

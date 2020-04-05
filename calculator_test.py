@@ -105,3 +105,10 @@ class CalculatorTest(CalculatorSteps):
         self.enter_digits(987654321)
         self.click_equals()
         assert self.get_first_value() == "0"
+
+    def test_change_operation(self):
+        self.enter_digits(321)
+        self.choose_operator(Operator.MINUS)
+        self.enter_digits(422)
+        assert self.get_operator() == "-"
+        self.choose_operator(Operator.PLUS)
